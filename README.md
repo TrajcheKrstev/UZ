@@ -1,2 +1,2 @@
 # UZ
-Predmet Umetno Zaznavanje
+Assignments for the subject Machine Perception (Umetno Zaznavanje)
